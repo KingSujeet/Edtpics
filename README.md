@@ -40,7 +40,7 @@
 
 
 
-<img src="https://github.com/KingSujeet/Edtpics/blob/master/WhatsApp%20Image%202020-10-10%20at%201.35.17%20PM%20(4).jpeg" width="250">
+<img src="https://github.com/KingSujeet/Edtpics/blob/master/WhatsApp%20Image%202020-10-10%20at%201.35.17%20PM%20(5).jpeg" width="250">
 <br><br>
 
 
