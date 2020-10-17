@@ -1,6 +1,6 @@
 <h1>😃 Edtpics photo editor app</h1>
 
-<p>Hi, I made A Photo Editor aoo which I named it "Editpics". You can use this project directly into your project. </p>
+<p>Hi, I made A Photo Editor app which I named it "Editpics". You can use this project directly into your project. </p>
 
 <hr>
 
